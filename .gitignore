@@ -1,3 +1,2 @@
-__pycache__ 
-data/asteroid_data.dat
+__pycache__/*
 .ipynb_checkpoints/*
